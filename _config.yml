@@ -21,7 +21,7 @@ repository               : "brij-patel-knox/brij-patel-knox.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "\images\profb.JPG"
+  avatar           : "profb.JPG"
   name             : "Brij Patel"
   pronouns         : "he/him"  
   bio              : "I am Computer Science student at Knox College"
