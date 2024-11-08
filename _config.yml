@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Brij Patel / Site Title"
+title                    : "Brij Patel / Profile"
 title_separator          : "-"
 name                     : &name "Brij Patel"
 description              : &description "Hey! I am student at Knox College"
@@ -21,11 +21,11 @@ repository               : "brij-patel-knox/brij-patel-knox.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "\images\profb.JPG"
+  name             : "Brij Patel"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I am Computer Science student at Knox College"
+  location         : "Illinois, USA"
   employer         : "Knox College"
   uri              : # URL
   email            : "bpatel@knox.edu" 
