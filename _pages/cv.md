@@ -59,18 +59,32 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+* Languages
+  * Python 
+  * R
+  * Java
+  * C++
+  * C
+  * C#
+  * Haskell
+  * Rust
+  * PHP
+  * SQL
+  * JavaScript
+  * HTML
+  * CSS
+
+* Other Tools
+  * SDLC
+  * Trello
+  * Github
+  * Figma
+
+
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
   
 Talks
 ======
