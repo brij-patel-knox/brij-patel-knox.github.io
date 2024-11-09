@@ -9,19 +9,19 @@ main:
     url: /background/
 
   - title: "Skills"
-    url: /talks/    
+    url: /skills/    
 
   - title: "Experience"
     url: /experience/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   - title: "Resume"
-    url: /year-archive/
+    url: /resume/
     
   - title: "CV"
     url: /cv/
     
   - title: "Connect"
-    url: /markdown/
+    url: /connect/
