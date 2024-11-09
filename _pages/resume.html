@@ -3,37 +3,33 @@ layout: archive
 permalink: /resume/
 title: "Resume"
 author_profile: true
-
 ---
 
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Display PDF with PDF.js</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
-  <style>
-    /* Center the PDF viewer */
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f9;
-    }
-
-    /* Canvas styling for rendering PDF */
-    #pdfCanvas {
-      border: 1px solid #ddd;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    }
-  </style>
-</head>
-<body>
-
+<script>
+    const url = 'path/to/your-file.pdf'; // The path to your PDF file
+  
+    // Load the PDF
+    pdfjsLib.getDocument(url).promise.then(function (pdfDoc_) {
+      const pdfDoc = pdfDoc_;
+      const canvas = document.getElementById('pdf-canvas');
+      const context = canvas.getContext('2d');
+      const pageNumber = 1;
+  
+      // Get the first page
+      pdfDoc.getPage(pageNumber).then(function (page) {
+        const viewport = page.getViewport({ scale: 1 });
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+  
+        // Render the page
+        page.render({
+          canvasContext: context,
+          viewport: viewport
+        });
+      });
+    });
+  </script>
+  
   <!-- Canvas where the PDF will be rendered -->
   <canvas id="pdfCanvas"></canvas>
 
