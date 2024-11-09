@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-## Let's connect !!
+## Want to have chat !!
 {% include social-share.html %}
 
 
