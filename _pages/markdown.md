@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+## Let's connect !!
+
+{% include social-share.html %}
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
