@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Connect"
-permalink: /connect/
+title: ""
+permalink: / Let's connect and have a chat !!/
 author_profile: true
 
 redirect_from: 
@@ -9,8 +9,6 @@ redirect_from:
   - /connect.html
 ---
 
-
-## Want to have chat !!
 <div style="text-align:center;">
   <h1 style="font-size: 24px; font-weight: bold; color: #333;">Brij Patel</h1>
   <p style="font-size: 18px; color: #666;">Computer Science Student | Passionate about Coding and Problem-Solving</p>
@@ -19,5 +17,5 @@ redirect_from:
 {% include social-share.html %}
 
 
-<!-- Markdown file starts here -->
+
 
