@@ -28,15 +28,15 @@ redirect_from:
       <i class="fab fa-linkedin" style="transition: color 0.3s;"></i>
     </a>
 
-    <!-- GitHub Widget -->
-    <a href="https://github.com/your-username" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
-      <i class="fab fa-github" style="transition: color 0.3s;"></i>
-    </a>
+  <!-- GitHub Widget -->
+  <a href="https://github.com/your-username" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
+  <i class="fab fa-github" style="transition: color 0.3s;"></i>
+  </a>
 
-    <!-- Email Widget -->
-    <a href="mailto:your-email@example.com" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
-      <i class="fas fa-envelope" style="transition: color 0.3s;"></i>
-    </a>
+  <!-- Email Widget -->
+  <a href="mailto:your-email@example.com" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
+  <i class="fas fa-envelope" style="transition: color 0.3s;"></i>
+  </a>
   </div>
 </div>
 
