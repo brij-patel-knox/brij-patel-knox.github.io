@@ -7,20 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-# Brij Patel's Profile
 
 <div style="text-align:center;">
   <h1 style="font-size: 24px; font-weight: bold; color: #333;">Brij Patel</h1>
   <p style="font-size: 18px; color: #666;">Computer Science Student | Passionate about Coding and Problem-Solving</p>
 
   <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
-    <!-- Linkedin hellWidget -->
+    <!-- LinkedIn Widget -->
     <a href="https://www.linkedin.com/in/brij-patel-a291052b4/" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="LinkedIn">
       <i class="fab fa-linkedin"></i>
     </a>
     <!-- GitHub Widget -->
     <a href="https://github.com/brij-patel-knox" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
-      <i class="fag fa-github"></i>
+      <i class="fab fa-github"></i> <!-- Corrected class here -->
     </a>
     <!-- Email Widget -->
     <a href="mailto:bpatel@knox.edu" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
@@ -40,11 +39,8 @@ redirect_from:
   .fab:hover {
     color: #0077b5; /* LinkedIn icon hover color */
   }
-   .fag:hover {
-    color: #2b3137; /* LinkedIn icon hover color */
-  }
-  
-  .fas:hover {
+   .fas:hover {
     color: #d44638; /* Red color for the email icon on hover */
   }
 </style>
+
