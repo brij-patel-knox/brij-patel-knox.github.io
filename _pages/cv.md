@@ -84,7 +84,6 @@ Skills
 
 Projects
 ======
-# Projects
 
 ## CRN Website
 - Designed and integrated a graphical interface to enhance user experience and monitored multiple CRN files simultaneously, providing intuitive visual insights into complex networks.
