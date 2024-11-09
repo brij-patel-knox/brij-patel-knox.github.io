@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: ""
-permalink: / Let's connect and have a chat !!/
+title: "Let's have chat !!"
+permalink: /connect/
 author_profile: true
 
 redirect_from: 
   - /md/
   - /connect.html
 ---
+
+
 
 <div style="text-align:center;">
   <h1 style="font-size: 24px; font-weight: bold; color: #333;">Brij Patel</h1>
@@ -17,5 +19,5 @@ redirect_from:
 {% include social-share.html %}
 
 
-
+<!-- Markdown file starts here -->
 
