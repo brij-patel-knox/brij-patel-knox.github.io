@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Brij Patel. I am pursuing BS in Computer Science at Knox College
-Explore around the webiste to see some of my work !!
+ <p>I am Brij Patel. I am pursuing a BS in Computer Science at Knox College.</p>
+ <p>Explore around the website to see some of my work!!</p>
 
 <div style="text-align:center;">
   <h1 style="font-size: 24px; font-weight: bold; color: #333;">Brij Patel</h1>

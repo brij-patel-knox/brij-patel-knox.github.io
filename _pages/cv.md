@@ -84,20 +84,44 @@ Skills
 
 Projects
 ======
+# Projects
+
+## CRN Website
+- Designed and integrated a graphical interface to enhance user experience and monitored multiple CRN files simultaneously, providing intuitive visual insights into complex networks.
+- Implemented advanced parsing algorithms to efficiently process and extract relevant data from uploaded CRN files, ensuring accurate and quick analysis.
+
+## Interactive Weather Website
+- Enhanced user engagement through strategic use of visual puns, comic strips, and interactive dialogues, resulting in increased time spent on site and higher user satisfaction.
+- Leveraged contemporary web development technologies and frameworks (including HTML5, CSS3, and JavaScript) to implement and enhance interactive features with a comic aesthetic.
+
+## Site Stat
+- Developed and launched a web application enabling users to monitor website uptime and receive real-time notifications via email when a registered website goes down or comes back online.
+- Utilized technologies such as **JavaScript** to ensure robust performance and scalability, supporting a growing number of users and monitored websites.
   
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Teaching Assistant for CS 142: Program design & methodology
+
+Knox College, Computer Science Department, Spring 2024
+
+  - Providing weekly student support in computer science and facilitates lab sessions and assignments
+  - Collaborating with professors on course materials and maintains up-to-date knowledge in the field
+
+  https://courses.knox.edu/cs142/
+
+
+
+Honors & awards
 ======
-* Currently signed in to 43 different slack teams
+
+Dean's List for Winter 2024
+  - Issued by Knox College · Apr 2024
+  - Dean's List, a student must have earned at least 2.5 credits in the term, with a grade point average of 3.6 or better (on a 4.0 scale).
+
+  https://knox.meritpages.com/stories/Brij-Kamleshbhai-Patel-Named-to-Knox-College-Dean-s-List-for-2024-Winter-Term/131356333
+
+
+  
+
