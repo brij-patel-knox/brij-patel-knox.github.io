@@ -1,19 +1,18 @@
 ---
-permalink: /connect/
-title: "Connect"
+layout: archive
+title: "Projects"
+permalink: /projects/
 author_profile: true
+
 redirect_from: 
   - /md/
   - /connect.html
----
 
 ## Let's connect !!
 {% include social-share.html %}
 
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>Brij Patel's Profile</title>
   
   <!-- Font Awesome CDN for icons -->
@@ -90,8 +89,8 @@ redirect_from:
       color: #d44638; /* Email red */
     }
   </style>
-</head>
-<body>
+
+
 
   <!-- Profile Container -->
   <div class="profile-container">
