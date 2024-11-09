@@ -38,7 +38,7 @@ redirect_from:
     color: #0073b1; /* LinkedIn Blue for hover */
   }
   .fab:hover {
-    color: #0077b5; /* LinkedIn icon hover color */
+    color: #211f1f; /* LinkedIn icon hover color */
   }
   .fas:hover {
     color: #d44638; /* Red color for the email icon on hover */
