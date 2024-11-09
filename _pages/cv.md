@@ -106,10 +106,9 @@ Teaching Assistant for CS 142: Program design & methodology
 
 Knox College, Computer Science Department, Spring 2024
 
-  - Providing weekly student support in computer science and facilitates lab sessions and assignments
-  - Collaborating with professors on course materials and maintains up-to-date knowledge in the field
+  - Providing weekly student support in computer science and facilitates lab sessions and assignments.
+  - Collaborating with professors on course materials and maintains up-to-date knowledge in the field.[Click here](https://courses.knox.edu/cs142/)
 
-  https://courses.knox.edu/cs142/
 
 
 
@@ -118,9 +117,9 @@ Honors & awards
 
 Dean's List for Winter 2024
   - Issued by Knox College · Apr 2024
-  - Dean's List, a student must have earned at least 2.5 credits in the term, with a grade point average of 3.6 or better (on a 4.0 scale).
+  - Dean's List, a student must have earned at least 2.5 credits in the term, with a grade point average of 3.6 or better (on a 4.0 scale).[Click here](https://knox.meritpages.com/stories/Brij-Kamleshbhai-Patel-Named-to-Knox-College-Dean-s-List-for-2024-Winter-Term/131356333)
 
-  https://knox.meritpages.com/stories/Brij-Kamleshbhai-Patel-Named-to-Knox-College-Dean-s-List-for-2024-Winter-Term/131356333
+  
 
 
   
