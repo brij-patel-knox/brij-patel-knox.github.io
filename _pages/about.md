@@ -9,11 +9,7 @@ redirect_from:
 
 # Brij Patel's Profile
 
-<div style="text-align:center;">
-  <h1 style="font-size: 24px; font-weight: bold; color: #333;">Brij Patel</h1>
-  <p style="font-size: 18px; color: #666;">Computer Science Student | Passionate about Coding and Problem-Solving</p>
 
-  <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
     <!-- LinkedIn Widget -->
     <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="LinkedIn">
       <i class="fab fa-linkedin"></i>
