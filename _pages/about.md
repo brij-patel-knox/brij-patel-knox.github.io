@@ -10,18 +10,18 @@ redirect_from:
 # Brij Patel's Profile
 
 
-    <!-- LinkedIn Widget -->
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="LinkedIn">
+<!-- LinkedIn Widget -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="LinkedIn">
       <i class="fab fa-linkedin"></i>
     </a>
 
-    <!-- GitHub Widget -->
-    <a href="https://github.com/your-username" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
+<!-- GitHub Widget -->
+<a href="https://github.com/your-username" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
       <i class="fab fa-github"></i>
     </a>
 
-    <!-- Email Widget -->
-    <a href="mailto:your-email@example.com" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
+<!-- Email Widget -->
+<a href="mailto:your-email@example.com" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
       <i class="fas fa-envelope"></i>
     </a>
   </div>
