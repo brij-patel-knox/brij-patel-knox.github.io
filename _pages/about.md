@@ -15,15 +15,15 @@ redirect_from:
 
   <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
     <!-- Linkedin hello Widget -->
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/brij-patel-a291052b4/" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="LinkedIn">
       <i class="fab fa-linkedin"></i>
     </a>
     <!-- GitHub Widget -->
-    <a href="https://github.com/your-username" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
+    <a href="https://github.com/brij-patel-knox" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
       <i class="fak fa-github"></i>
     </a>
     <!-- Email Widget -->
-    <a href="mailto:your-email@example.com" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
+    <a href="mailto:bpatel@knox.edu" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
       <i class="fas fa-envelope"></i>
     </a>
   </div>
