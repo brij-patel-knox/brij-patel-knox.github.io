@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Let's have chat !!"
+title: "Let's Connect and have a chat !!"
 permalink: /connect/
 author_profile: true
 
