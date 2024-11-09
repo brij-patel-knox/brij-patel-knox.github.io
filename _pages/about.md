@@ -14,13 +14,13 @@ redirect_from:
   <p style="font-size: 18px; color: #666;">Computer Science Student | Passionate about Coding and Problem-Solving</p>
 
   <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
-    <!-- Linkedin hello Widget -->
+    <!-- Linkedin hellWidget -->
     <a href="https://www.linkedin.com/in/brij-patel-a291052b4/" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="LinkedIn">
       <i class="fab fa-linkedin"></i>
     </a>
     <!-- GitHub Widget -->
     <a href="https://github.com/brij-patel-knox" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
-      <i class="fak fa-github"></i>
+      <i class="fag fa-github"></i>
     </a>
     <!-- Email Widget -->
     <a href="mailto:bpatel@knox.edu" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
@@ -40,9 +40,10 @@ redirect_from:
   .fab:hover {
     color: #0077b5; /* LinkedIn icon hover color */
   }
-   .fak:hover {
-    color: #211f1f; /* Github icon hover color */
+   .fag:hover {
+    color: #2b3137; /* LinkedIn icon hover color */
   }
+  
   .fas:hover {
     color: #d44638; /* Red color for the email icon on hover */
   }
