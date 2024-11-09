@@ -1,16 +1,16 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /connect/
+title: "Connect"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /connect.html
 ---
 
 ## Let's connect !!
 {% include social-share.html %}
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
