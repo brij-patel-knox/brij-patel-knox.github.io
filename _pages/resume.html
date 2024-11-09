@@ -4,69 +4,16 @@ permalink: /resume/
 title: "Resume"
 author_profile: true
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display PDF</title>
+</head>
+<body>
 
-<script>
-    const url = 'files/ResumeBrij.pdf'; // The path to your PDF file
-  
-    // Load the PDF
-    pdfjsLib.getDocument(url).promise.then(function (pdfDoc_) {
-      const pdfDoc = pdfDoc_;
-      const canvas = document.getElementById('pdf-canvas');
-      const context = canvas.getContext('2d');
-      const pageNumber = 1;
-  
-      // Get the first page
-      pdfDoc.getPage(pageNumber).then(function (page) {
-        const viewport = page.getViewport({ scale: 1 });
-        canvas.height = viewport.height;
-        canvas.width = viewport.width;
-  
-        // Render the page
-        page.render({
-          canvasContext: context,
-          viewport: viewport
-        });
-      });
-    });
-  </script>
-  
-  <!-- Canvas where the PDF will be rendered -->
-  <canvas id="pdfCanvas"></canvas>
+    <embed src="files/ResumeBrij.pdf" width="800" height="600" type="application/pdf">
 
-  <script>
-    // Link to the PDF file
-    const pdfUrl = 'files/ResumeBrij.pdf'; // replace with the URL of your PDF
-
-    // PDF.js Initialization
-    const pdfjsLib = window['pdfjs-dist/build/pdf'];
-    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js';
-
-    // Render PDF Function
-    async function renderPDF(url) {
-      // Load PDF document
-      const pdf = await pdfjsLib.getDocument(url).promise;
-      const page = await pdf.getPage(1); // Display the first page
-
-      // Set scale and viewport for PDF
-      const scale = 1.5;
-      const viewport = page.getViewport({ scale });
-
-      // Prepare canvas
-      const canvas = document.getElementById('pdfCanvas');
-      const context = canvas.getContext('2d');
-      canvas.width = viewport.width;
-      canvas.height = viewport.height;
-
-      // Render PDF page onto canvas
-      const renderContext = {
-        canvasContext: context,
-        viewport: viewport
-      };
-      await page.render(renderContext);
-    }
-
-    // Call the function to render the PDF
-    renderPDF(pdfUrl);
-  </script>
 </body>
 </html>
