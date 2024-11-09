@@ -9,19 +9,21 @@ redirect_from:
 
 # Brij Patel's Profile
 
+<div style="text-align:center;">
+  <h1 style="font-size: 24px; font-weight: bold; color: #333;">Brij Patel</h1>
+  <p style="font-size: 18px; color: #666;">Computer Science Student | Passionate about Coding and Problem-Solving</p>
 
-<!-- LinkedIn Widget -->
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="LinkedIn">
+  <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
+    <!-- LinkedIn Widget -->
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="LinkedIn">
       <i class="fab fa-linkedin"></i>
     </a>
-
-<!-- GitHub Widget -->
-<a href="https://github.com/your-username" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
+    <!-- GitHub Widget -->
+    <a href="https://github.com/your-username" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
       <i class="fab fa-github"></i>
     </a>
-
-<!-- Email Widget -->
-<a href="mailto:your-email@example.com" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
+    <!-- Email Widget -->
+    <a href="mailto:your-email@example.com" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
       <i class="fas fa-envelope"></i>
     </a>
   </div>
