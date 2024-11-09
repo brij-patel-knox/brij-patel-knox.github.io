@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+I am Brij Patel. I am pursuing BS in Computer Science at Knox College, I am passionate about coding and problem-solving, I want to use my skills to develop something that helps make this world a better place. My current goal is to complete grad school.
 
 <div style="text-align:center;">
   <h1 style="font-size: 24px; font-weight: bold; color: #333;">Brij Patel</h1>
