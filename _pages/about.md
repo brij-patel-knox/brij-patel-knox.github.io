@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Brij Patel's Profile
+
 
 <div style="text-align:center;">
   <h1 style="font-size: 24px; font-weight: bold; color: #333;">Brij Patel</h1>
