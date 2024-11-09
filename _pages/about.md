@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+# Brij Patel's Profile
 
 <div style="text-align:center;">
   <h1 style="font-size: 24px; font-weight: bold; color: #333;">Brij Patel</h1>
@@ -20,7 +20,7 @@ redirect_from:
     </a>
     <!-- GitHub Widget -->
     <a href="https://github.com/your-username" target="_blank" style="text-decoration: none; color: #333; font-size: 36px;" title="GitHub">
-      <i class="fab fa-github"></i>
+      <i class="fak fa-github"></i>
     </a>
     <!-- Email Widget -->
     <a href="mailto:your-email@example.com" style="text-decoration: none; color: #333; font-size: 36px;" title="Email">
@@ -38,7 +38,10 @@ redirect_from:
     color: #0073b1; /* LinkedIn Blue for hover */
   }
   .fab:hover {
-    color: #211f1f; /* LinkedIn icon hover color */
+    color: #0077b5; /* LinkedIn icon hover color */
+  }
+   .fak:hover {
+    color: #211f1f; /* Github icon hover color */
   }
   .fas:hover {
     color: #d44638; /* Red color for the email icon on hover */
